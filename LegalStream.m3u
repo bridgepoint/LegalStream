@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0, >> Christianity Streams
-https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/christianity/all.m3u8
 #EXTINF:0, >> Entertainment Streams
 https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/entertainment/all.m3u8
 #EXTINF:0, >> News Streams
